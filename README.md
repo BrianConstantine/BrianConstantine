@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Brian Munene Kariuki</h1>
+<h1 align="center">👋 Hi, I'm Brian Kariuki</h1>
 <p align="center">
   Passionate about STEM, specializing in the intersection of electrical, telecommunication, and IT systems to drive innovative, tech-based solutions.
 </p>
