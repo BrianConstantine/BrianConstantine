@@ -12,7 +12,7 @@
 - 🤖 **AI + Power Systems Researcher**
 - 🌍 Based in **Kenya**
 - 📨 [brianmunene20@gmail.com](mailto:brianmunene20@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/briankariuki)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/brian-kariuki-6aa0a618b)
 
 ---
 
