@@ -32,7 +32,7 @@
 ### 📚 Projects
 
 - 🗄️ [Serverless CRUD API (AWS)](https://github.com/BrianConstantine/Project2-Serverless-CRUD-API-Lambda-Dynamodb-Amplify)
-- 🧠 [AI Resume Analyzer](https://github.com/BrianConstantine/AIResumeAnalyzer)
+- 📦 [Containerized WordPress with ECS + RDS](https://github.com/BrianConstantine/Containerized_wordpress_ECS-RDS)
 - 🌐 [Cloud Resume Challenge](https://github.com/BrianConstantine/CloudResume)
 - 🧰 [Techweek App](https://github.com/BrianConstantine/TechweekAPP) 
 
