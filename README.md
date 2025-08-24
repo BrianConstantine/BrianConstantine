@@ -34,7 +34,7 @@
 - 🗄️ [Serverless CRUD API (AWS)](https://github.com/BrianConstantine/Project2-Serverless-CRUD-API-Lambda-Dynamodb-Amplify)
 - 🧠 [AI Resume Analyzer](https://github.com/BrianConstantine/AIResumeAnalyzer)
 - 🌐 [Cloud Resume Challenge](https://github.com/BrianConstantine/CloudResume)
-- 🧰 [Azure Webserver VM](https://github.com/BrianConstantine/Webserver_VM)
+- 🧰 [Techweek App](https://github.com/BrianConstantine/TechweekAPP) 
 
 ---
 
