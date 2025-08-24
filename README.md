@@ -9,7 +9,7 @@
 
 - 🎓 **Electrical & Electronics Engineer**
 - ☁️ **Cloud & DevOps Enthusiast**
-- 🤖 **AI + Power Systems Researcher**
+- 🤖 **AI + CyberSecurity**
 - 🌍 Based in **Kenya**
 - 📨 [brianmunene20@gmail.com](mailto:brianmunene20@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/brian-kariuki-6aa0a618b)
