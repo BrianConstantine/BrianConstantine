@@ -34,7 +34,8 @@
 - 🗄️ [Serverless CRUD API (AWS)](https://github.com/BrianConstantine/Project2-Serverless-CRUD-API-Lambda-Dynamodb-Amplify)
 - 📦 [Containerized WordPress with ECS + RDS](https://github.com/BrianConstantine/Containerized_wordpress_ECS-RDS)
 - 🧰 [Techweek App](https://github.com/BrianConstantine/TechweekAPP) 
-- 🚀 [AWS CI/CD Pipeline with CodePipeline, CodeBuild & CodeDeploy](https://github.com/BrianConstantine/React-Deploy) 
+- 🚀 [AWS CI/CD Pipeline with CodePipeline, CodeBuild & CodeDeploy](https://github.com/BrianConstantine/React-Deploy)
+- 🤖 [AWS CI/CD Pipeline with CodePipeline, CodeBuild & CodeDeploy](https://github.com/BrianConstantine/React-Deploy)  
 
 
 ---
